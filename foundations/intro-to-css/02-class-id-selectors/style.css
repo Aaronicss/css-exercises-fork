@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+*{
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+.OddNumberElements{
+    background-color: rgb(255, 182, 193);
+}
+#Number2{
+    color: blue;
+    font-size: 36px;
+}
+.Number3{
+    font-size: 24px;
+}
+#Number4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
